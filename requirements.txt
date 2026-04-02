@@ -1,0 +1,10 @@
+aiogram
+environs
+marshmallow<4
+SQLAlchemy
+asyncpg
+aiohttp
+APScheduler
+pyrogram
+tgcrypto
+flyerapi
